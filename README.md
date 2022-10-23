@@ -6,4 +6,4 @@ The training data is downloaded from kaggle:
 
 https://www.kaggle.com/competitions/avazu-ctr-prediction/data
 
-Best kaggle score: 0.39762
+kaggle score: 0.39762
